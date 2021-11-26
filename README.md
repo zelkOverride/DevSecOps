@@ -36,7 +36,7 @@ This library contains list of tools and methodologies accompanied with resources
 - [License](#license) 
 
 # What is DevSecOps 
-DevSecOps fosuses on security automation, testing and enforcement during DevOps - Release - SDLC cycles. The whole meaning behind this methodology is connecting together Development, Security and Operations. DevSecOps is methodology providing diffeent methods, techniess and processes backed mainly with tooling focusing on developer / secuirty experience. 
+DevSecOps focuses on security automation, testing and enforcement during DevOps - Release - SDLC cycles. The whole meaning behind this methodology is connecting together Development, Security and Operations. DevSecOps is methodology providing diffeent methods, techniess and processes backed mainly with tooling focusing on developer / secuirty experience. 
 
 DevSecOps takes care that security is part of every stage of DevOps loop - Plan, Code, Build, Test, Release, Deploy, Operate, Monitor. 
 
